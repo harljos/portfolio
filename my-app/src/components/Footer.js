@@ -4,7 +4,7 @@ function Footer() {
     return (
         <div className="d-flex justify-content-center">
             <a href="https://github.com/harljos">
-                <img src="../../public/github-logo.png" alt="github-logo"/>
+                <img src="./github-logo.png" alt="github-logo" height={100}/>
             </a>
         </div>
         
