@@ -2,7 +2,7 @@ import React from "react";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div className="d-flex justify-content-between container">
+    <div className="d-flex justify-content-between container" id="navbar">
       <h1>Joseph Harley</h1>
       <ul className="nav nav-tabs">
       <li className="nav-item">
