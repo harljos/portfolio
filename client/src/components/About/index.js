@@ -1,3 +1,5 @@
+import TechStack from "../TechStack";
+
 const AboutMe = () => {
   return (
     <section id="about" className="py-8">
@@ -24,6 +26,7 @@ const AboutMe = () => {
         <p className="text-md lg:text-lg mb-4">
           I am open to new opportunities and would love to hear from you. Please feel free to browse my portfolio and contact me for any inquiries or collaboration proposals.
         </p>
+        <TechStack />
       </div>
     </section>
   );

@@ -6,9 +6,9 @@ import "react-tippy/dist/tippy.css";
 const TechStack = () => {
   return (
     <section className="py-8">
-        <h1 className="text-2xl text-center lg:text-4xl font-bold mb-4">
+        <h2 className="text-2xl text-center font-bold mb-4">
           Tech Stack
-        </h1>
+        </h2>
         <div className="flex flex-wrap justify-center items-center">
             <Tooltip title="HTML">
                 <FaHtml5 className="text-6xl text-orange-500 mx-6 my-4 hover:text-gray-500" />
