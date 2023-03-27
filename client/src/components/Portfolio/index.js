@@ -18,7 +18,7 @@ const Portfolio = () => {
           </div>
           <div className="w-full md:w-1/2">
             <p className="text-md lg:text-lg mb-4">
-              Full Plate is a site where users can view and share their each other's recipes.
+              Full Plate is a group project with a sprint of a week. It is a site where users what view and share eachothers recipes.
             </p>
             <div className="flex mb-4">
               <a
