@@ -18,7 +18,10 @@ const Portfolio = () => {
           </div>
           <div className="w-full md:w-1/2">
             <p className="text-md lg:text-lg mb-4">
-              Full Plate is a group project with a sprint of a week. It is a site where users what view and share eachothers recipes.
+            Full Plate is a recipe-sharing website that I worked on as part of a group project with 3 other developers in a week. It features recipe uploads and viewing. I gained valuable experience in full-stack development and project management through this project
+            </p>
+            <p className="text-md lg:text-lg mb-4">
+              Technologies Used: React, GraphQL, MongoDB, Express, Node
             </p>
             <div className="flex mb-4">
               <a

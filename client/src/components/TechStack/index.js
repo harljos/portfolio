@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3, FaJs, FaReact, FaBootstrap } from "react-icons/fa";
-import { SiMongodb, SiMysql, SiExpress, SiNodedotjs, SiTailwindcss } from "react-icons/si";
+import { SiMongodb, SiMysql, SiExpress, SiNodedotjs, SiTailwindcss, SiGraphql } from "react-icons/si";
 import { Tooltip } from "react-tippy";
 import "react-tippy/dist/tippy.css";
 
@@ -30,6 +30,9 @@ const TechStack = () => {
             </Tooltip>
             <Tooltip title="Express">
                 <SiExpress className="text-6xl text-black mx-6 my-4 hover:text-gray-500" />
+            </Tooltip>
+            <Tooltip title="GraphQL">
+                <SiGraphql className="text-6xl text-pink-500 mx-6 my-4 hover:text-gray-500" />
             </Tooltip>
             <Tooltip title="Node.js">
                 <SiNodedotjs className="text-6xl text-green-600 mx-6 my-4 hover:text-gray-500" />
