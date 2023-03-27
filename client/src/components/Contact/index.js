@@ -7,7 +7,6 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    window.open(`mailto:joseph.harley@gmail.com?subject=${subject}&body=${message}`);
   };
 
   return (
