@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js --ignore client",
     "install": "cd client && npm i",
     "build": "cd client && npm run build"
   },
