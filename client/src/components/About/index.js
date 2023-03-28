@@ -6,6 +6,10 @@ const AboutMe = () => {
   return (
     <section id="about" className="py-8">
       <div className="container mx-auto px-16 pt-4 pb-12 text-gray-800">
+        {/* heading */}
+        <h1 className="text-2xl text-center lg:text-4xl font-bold mb-4">
+          Joseph Harley
+        </h1>
         <div className="flex items-center justify-center">
           <img
             className="h-36 w-36 rounded-full object-cover"
@@ -16,6 +20,7 @@ const AboutMe = () => {
         <h1 className="text-2xl text-center lg:text-4xl font-bold mb-8">
           Full-Stack Developer
         </h1>
+        {/* links to socials */}
         <div className="flex justify-center space-x-6 mt-8">
           <a href="https://github.com/harljos">
             <Tooltip title="Github">
@@ -33,6 +38,7 @@ const AboutMe = () => {
             </Tooltip>
           </a>
         </div>
+        {/* about me section */}
         <h1 className="text-2xl text-center lg:text-4xl font-bold mb-4 mt-4">
           About Me
         </h1>
@@ -48,6 +54,7 @@ const AboutMe = () => {
         <p className="text-md lg:text-lg mb-4">
           I am open to new opportunities and would love to hear from you. Please feel free to browse my portfolio and contact me for any inquiries or collaboration proposals.
         </p>
+        {/* tech stack */}
         <TechStack />
       </div>
     </section>
