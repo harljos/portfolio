@@ -1,34 +1,11 @@
 # Porfolio
 
-## Description
+### This is a website to showcase my work and potential in the field of software development. You can view an about me section, and portfolio section that will show my skills and work I have accomplished.
 
-This is a website to showcase my work and potential in the field of software engineering. You can view an about me section, and portfolio section that will show my skills and work I have accomplished.
+## Quick Start
 
-## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-N/A
+Naviate to [joseph-harley-porfolio.herokuapp.com](https://joseph-harley-porfolio.herokuapp.com)
 
 ## Usage
 
-Use the links on the navbar to go to the coralating section. In the portfolio section click on the "Visit Website" to be taken to the live webiste, and the "GitHub Repository" to be taken to the github repository.
-
-### Live Link
-
-https://joseph-harley-porfolio.herokuapp.com/
-
-## Credits
-
-N/A
-
-## License
-
-N/A
+Use the links on the navbar to go to the coralating section. Click on the github logo to be taken to my github profile, and click on the linkedin logo to be taken to my linkedin profile. In the portfolio section click on the "GitHub Repository" button to be taken to the github repository.
