@@ -27,11 +27,11 @@ const TechStack = () => {
             <Tooltip title="MongoDB">
                 <SiMongodb className="text-6xl text-green-500 mx-6 my-4 hover:text-gray-500" />
             </Tooltip>
-            <Tooltip title="Express">
-                <SiExpress className="text-6xl text-black mx-6 my-4 hover:text-gray-500" />
-            </Tooltip>
             <Tooltip title="Node.js">
                 <SiNodedotjs className="text-6xl text-green-600 mx-6 my-4 hover:text-gray-500" />
+            </Tooltip>
+            <Tooltip title="Express.js">
+                <SiExpress className="text-6xl text-black mx-6 my-4 hover:text-gray-500" />
             </Tooltip>
             <Tooltip title="React">
                 <SiReact className="text-6xl text-blue-400 mx-6 my-4 hover:text-gray-500" />

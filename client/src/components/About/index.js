@@ -46,7 +46,7 @@ const AboutMe = () => {
           Ever since my switch to Go, I have been loving building projects like my own “gymplanr”, where I spent most of my time working on it, and had a pleasant time while doing it. I used to focus primarily on front-end using JavaScript and React/Next.js but, I just cannot go back after using Go. I am currently looking for an entry backend developer role, ideally in Go.
         </p>
         <p className="text-md lg:text-lg mb-4">
-          I have graduated from a coding bootcamp where I have collaborated on several projects that where I learned teamwork, effective communication, and collobaration. These experiences have strengthened my ability to manage projects efficiently, work in diverse teams, and deliver quality results.
+          I have graduated from a coding bootcamp where I have collaborated on several projects that where I learned teamwork, effective communication, and collobaration. These experiences have strengthened my ability to manage projects efficiently, work in teams.
         </p>
         {/* tech stack */}
         <TechStack />
