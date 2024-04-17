@@ -43,16 +43,10 @@ const AboutMe = () => {
           About Me
         </h1>
         <p className="text-md lg:text-lg mb-4">
-          Hello, I am a coding bootcamp graduate and thrilled to enter the world of software engineering. My proficiency in MongoDB, Express, React, Node, and mySQL enables me to develop full-stack applications that cater to user needs and provide seamless experiences.
+          Ever since my switch to Go, I have been loving building projects like my own “gymplanr”, where I spent most of my time working on it, and had a pleasant time while doing it. I used to focus primarily on front-end using JavaScript and React/Next.js but, I just cannot go back after using Go. I am currently looking for an entry backend developer role, ideally in Go.
         </p>
         <p className="text-md lg:text-lg mb-4">
-          During my time in the bootcamp, I collaborated on several projects that instilled in me the value of teamwork, effective communication, and agile methodologies. These experiences have strengthened my ability to manage projects efficiently, work in diverse teams, and deliver quality results.
-        </p>
-        <p className="text-md lg:text-lg mb-4">
-          I am committed to constantly improving my skills and keeping up-to-date with emerging technologies and best practices. I am excited to bring my passion for software engineering and eagerness to learn to a team that fosters creativity, innovation, and personal growth.
-        </p>
-        <p className="text-md lg:text-lg mb-4">
-          I am open to new opportunities and would love to hear from you. Please feel free to browse my portfolio and contact me for any inquiries or collaboration proposals.
+          I have graduated from a coding bootcamp where I have collaborated on several projects that where I learned teamwork, effective communication, and collobaration. These experiences have strengthened my ability to manage projects efficiently, work in diverse teams, and deliver quality results.
         </p>
         {/* tech stack */}
         <TechStack />
