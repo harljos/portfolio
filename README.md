@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-Naviate to [joseph-harley-porfolio.herokuapp.com](https://joseph-harley-porfolio.herokuapp.com)
+Naviate to [portfolio-1a3vaviqr-joseph-harleys-projects.vercel.app](https://portfolio-1a3vaviqr-joseph-harleys-projects.vercel.app/)
 
 ## Usage
 
